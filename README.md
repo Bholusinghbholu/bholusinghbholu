@@ -47,7 +47,7 @@
   <a href="mailto:Bholus079@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email"/>
   </a>
-  <a href="https://instagram.com/b191_2" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/Bholusinghbholu" target="_blank">
