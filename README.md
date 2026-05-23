@@ -26,13 +26,10 @@
 
 ---
 
-### 📊 My GitHub Stats:
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bholusinghbholu&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bholusinghbholu&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bholusinghbholu&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=bholusinghbholu&theme=tokyonight"/>
 </p>
 
 ---
